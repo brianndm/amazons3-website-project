@@ -11,7 +11,7 @@ This project took around 30 minutes and the most rewarding concepts to learn wer
 
 ## Setting Up an S3 Bucket
 
-Before anything, the most optimal region was selected which was Canada central. Throughout the setting up process, a key takeaway was that S3 bucket names are globally unique. A bucket was created called "website-project-brian" and two objects were uploaded into the bucket (html file and folder). Both files house the necessary backend and frontend information for the website to function. 
+Before anything, the most optimal region was selected which was Canada central. Throughout the setting up process, a key takeaway was that S3 bucket names are globally unique. A bucket was created called "website-project-brian" and two objects were uploaded into the bucket (html file and folder). Both files house the necessary backend and frontend information for the website to function. Both files are to showcase a potential onboarding website.
 
 ## Enabling Website Hosting
 
